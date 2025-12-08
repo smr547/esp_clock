@@ -90,6 +90,7 @@ build_flags =
 -D TFT_CS=2
 -D TFT_DC=4
 -D TFT_RST=19
+```
 
 ## Building the Project
 
