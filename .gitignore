@@ -3,7 +3,7 @@
 # .vscode/c_cpp_properties.json
 # .vscode/launch.json
 # .vscode/ipch
-
+.vscode
 # PlatformIO build artifacts and internal files
 .pio/
 .venv/
