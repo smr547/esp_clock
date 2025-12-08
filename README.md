@@ -7,7 +7,7 @@ The project is intentionally structured so that:
 - no library source files are modified
 - the project can be cloned and built on a clean machine without manual setup steps
 
-This repository is intended to be maintainable by my future self, or by my grandson Patrick (PJ).
+This repository is intended to be maintainable by my future self, or by my grandson.
 
 ---
 
