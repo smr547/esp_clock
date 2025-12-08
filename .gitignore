@@ -1,0 +1,47 @@
+# .pio
+# .vscode/.browse.c_cpp.db*
+# .vscode/c_cpp_properties.json
+# .vscode/launch.json
+# .vscode/ipch
+
+# PlatformIO build artifacts and internal files
+.pio/
+.venv/
+/build/
+
+# Dependencies/libraries managed by PlatformIO (if not managed via platformio.ini)
+# If you list library dependencies in platformio.ini, these folders are regenerated
+# automatically and should be ignored.
+.lib/
+/lib/
+/packages/
+
+# Compiled object files, libraries, and executables (C/C++ specific)
+*.o
+*.obj
+*.d
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.bin
+*.elf
+*.hex
+
+# Environment and sensitive data
+.env
+credentials.h
+secrets.h
+
+# IDE and OS specific files
+.vscode/ # VS Code specific settings (you may want to keep some shared settings, but ignore user-specific ones)
+.history/
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store # macOS system files
+Thumbs.db # Windows system files
+
